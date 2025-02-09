@@ -8,7 +8,7 @@
 | Chavero Martínez Noé | 1223100837 |
 | Gonzáles Avalos César Fernando | 1223100745 |
 ---
-## Examenes de NetaCad Python
+## Examenes de NetaCad Python y Ejercicios de Soldadura
 
 | *Nombre Completo*| *Link De Drive* |
 |-----------------|-------------|
