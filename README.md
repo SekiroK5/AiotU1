@@ -44,8 +44,8 @@ En general, el trabajo estuvo bien, se cumplió con el cometido y mejor de lo qu
 *Coevaluación de César Fernando Gonzáles Avalos a Noé Chavero Martínez*
 
 #### Nombre de mi compañero --> Chavero Martínez Noé
-#### Calificación --> 9.4/10
-**Descripción -->** Mi compañero fue excelente al armar rápidamente los circuitos que haciamos en la ESP32 y siempre estuvo dispuesto a colaborar con los materiales necesarios, lo cual ayudó mucho al avance del proyecto. Además, cumplió con su parte de la evaluación sin problemas, lo que hizo que el trabajo en equipo fuera mucho más fluido. Destaco también su capacidad para escuchar y proponer ideas: cada vez que tuve problemas con el código, él siempre me daba sugerencias útiles para corregir los errores.
+#### Calificación --> 9.7/10
+**Descripción -->** Mi compañero fue muy bueno configurando correctamente la Raspberry Pi y ejecutando los códigos desde la laptop sin inconvenientes. Siempre estuvo dispuesto a cooperar en cuanto a los materiales, lo que facilitó el desarrollo del proyecto. Además, su disposición para ayudar y su capacidad para solucionar problemas fueron clave en nuestro trabajo en equipo.
 
 En cuanto a áreas de mejora, aunque montaba el circuito muy rápido, en algunas ocasiones conectaba mal ciertos cables o componentes, lo cual requería ajustes posteriores. También, algunas veces el punteado no era el adecuado, y al grabar los videos se ponía un poco nervioso, lo que afectaba el resultado final.
 
