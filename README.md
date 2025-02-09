@@ -36,10 +36,8 @@
 
 *Coevaluación de Noé Chavero Martínez a César Fernando Gonzáles Avalos*
 ### Nombre de mi compañero -- César Fernando Gonzáles Avalos
-### Calificación -- 9.2/10
-En lo personal mi compañero hizo un buen trabajo al momento de montar el duende, empezando por los programas que hizo para la ambientación y darle vista, la comunicación que tuvimos fue la más precisa y la mejor de todo.
-
-A pesar de las cosas buenas y que, el trabajo salió al final mejor de lo que esperabamos, en cuanto a mejoras en él, le faltó un poco de más iniciativa en la toma de decisiones, también, a veces la ayuda de él para el armado era mínima, aún así intentaba apoyar, como mejora, solo me gustaría que tenga más iniciativa, ya que sus puntos y sus ideas siempre serán tomadas en cuenta, de igual manera, que sea un poco menos penoso a la toma de deciones.
+### Calificación -- 9.6/10
+Se dio buen apoyo al realizar las actividades solicitadas por el maestro, aunque a veces se creyó que no se podría, con la ayuda y entre los dos se pudo lograr el buen funcionamiento.
 
 En general, el trabajo estuvo bien, se cumplió con el cometido y mejor de lo que esperabamos. Tuvo buena dispocisión para colaborar, lo cual hizo que el trabajo estuviera a tiempo.
 ---
