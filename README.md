@@ -35,6 +35,9 @@
 ![image](https://github.com/user-attachments/assets/c0617ab7-9787-43e7-9bf7-f2c235e0217d)
 
 ## Gonzáles Avalos César Fernando
+![Imagen de WhatsApp 2025-02-08 a las 14 47 33_c33f1aa1](https://github.com/user-attachments/assets/6f24e5f1-ef98-495d-b3b7-bf1dab39515c)
+
+![Imagen de WhatsApp 2025-02-08 a las 14 47 32_97afc35e](https://github.com/user-attachments/assets/0f7ea46e-c80a-48a1-854a-0af69a21730c)
 
 ---
 ## Coevaluación 
