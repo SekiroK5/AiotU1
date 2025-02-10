@@ -29,6 +29,9 @@
 | Actividad 1 | https://wokwi.com/projects/421996227339920385 |
 | Actividad 2 | https://wokwi.com/projects/421996129065272321 |
 
+---
+## Ejercicios de Soldadura
+![image](https://github.com/user-attachments/assets/c0617ab7-9787-43e7-9bf7-f2c235e0217d)
 
 
 ---
