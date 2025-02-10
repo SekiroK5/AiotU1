@@ -31,8 +31,10 @@
 
 ---
 ## Ejercicios de Soldadura
+## Chavero Martínez Noé
 ![image](https://github.com/user-attachments/assets/c0617ab7-9787-43e7-9bf7-f2c235e0217d)
 
+## Gonzáles Avalos César Fernando
 
 ---
 ## Coevaluación 
