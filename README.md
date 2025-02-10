@@ -42,7 +42,8 @@
 *Coevaluación de Noé Chavero Martínez a César Fernando González Avalos*
 ### Nombre de mi compañero -- César Fernando Gonzáles Avalos
 ### Calificación -- 9.6/10
-Se dio buen apoyo al realizar las actividades solicitadas por el maestro, aunque a veces se creyó que no se podría, con la ayuda y entre los dos se pudo lograr el buen funcionamiento.
+Se dio buen apoyo al realizar las actividades solicitadas por el maestro, se mantuvo una buena comunicación y buena forma de trabajar, al repartirnos los roles podemos agilizar las tareas, si bien, a veces esto nos causa conflicto a la hora de juntar las cosas, pero teniendo paciencia entre los dos terminamos acomodando todo de buena manera.
+Como área de mejora, considero que, a la hora de explicar en los vídeos le faltaban unas cosas por decir, esto debido a los nervios, igual, al momento que le tocaba grabar los vídeos muchas veces se ven muy de cerca, pero nada que no se pueda mejorar.
 
 En general, el trabajo estuvo bien, se cumplió con el cometido y mejor de lo que esperabamos. Tuvo buena dispocisión para colaborar, lo cual hizo que el trabajo estuviera a tiempo.
 ---
