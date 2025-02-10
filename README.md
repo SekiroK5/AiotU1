@@ -13,14 +13,14 @@
 | *Nombre Completo*| *Link De Drive* |
 |-----------------|-------------|
 | Chavero Martínez Noé | https://drive.google.com/drive/folders/1-LS4K1DTe4k3HQjsMrERyrKQqe7LVq3s?usp=drive_link |
-| Gonzáles Avalos César Fernando | https://drive.google.com/drive/folders/1s78uq_-YLPBw-m3z57OdaTDmBwJqdkcX?usp=drive_link |
+| González Avalos César Fernando | https://drive.google.com/drive/folders/1s78uq_-YLPBw-m3z57OdaTDmBwJqdkcX?usp=drive_link |
 
 ## Videos de las pruebas
 
 | *Nombre Completo*| *Link De Drive* |
 |-----------------|-------------|
 | Chavero Martínez Noé | https://drive.google.com/drive/folders/1Uc3LZ3TD_ngKmMHYyozbrpbPFnYiEm_O?usp=drive_link |
-| Gonzáles Avalos César Fernando | https://drive.google.com/drive/folders/1QRAF-TKv-0cvmg6bu_dlgfsD-XM966PZ?usp=drive_link |
+| González Avalos César Fernando | https://drive.google.com/drive/folders/1QRAF-TKv-0cvmg6bu_dlgfsD-XM966PZ?usp=drive_link |
 | Videos en Pareja | https://drive.google.com/drive/folders/1YsxPIQlcZQ0XF7bLy8GrkzvuH6S_bV4U?usp=drive_link |
 
 ## Diagrama de conexiones
@@ -34,14 +34,14 @@
 ---
 ## Coevaluación 
 
-*Coevaluación de Noé Chavero Martínez a César Fernando Gonzáles Avalos*
+*Coevaluación de Noé Chavero Martínez a César Fernando González Avalos*
 ### Nombre de mi compañero -- César Fernando Gonzáles Avalos
 ### Calificación -- 9.6/10
 Se dio buen apoyo al realizar las actividades solicitadas por el maestro, aunque a veces se creyó que no se podría, con la ayuda y entre los dos se pudo lograr el buen funcionamiento.
 
 En general, el trabajo estuvo bien, se cumplió con el cometido y mejor de lo que esperabamos. Tuvo buena dispocisión para colaborar, lo cual hizo que el trabajo estuviera a tiempo.
 ---
-*Coevaluación de César Fernando Gonzáles Avalos a Noé Chavero Martínez*
+*Coevaluación de César Fernando González Avalos a Noé Chavero Martínez*
 
 #### Nombre de mi compañero --> Chavero Martínez Noé
 #### Calificación --> 9.7/10
